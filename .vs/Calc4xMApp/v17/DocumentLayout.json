@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|c:\\users\\duarte\\downloads\\versaofinal\\versaofinal\\calc4xmapp\\calc4xmapp\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|solutionrelative:calc4xmapp\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|c:\\users\\duarte\\downloads\\versaofinal\\versaofinal\\calc4xmapp\\calc4xmapp\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|solutionrelative:calc4xmapp\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|c:\\users\\duarte\\downloads\\versaofinal\\versaofinal\\calc4xmapp\\calc4xmapp\\exceptionoperacaoinvalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|solutionrelative:calc4xmapp\\exceptionoperacaoinvalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|c:\\users\\duarte\\downloads\\versaofinal\\versaofinal\\calc4xmapp\\calc4xmapp\\formgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|solutionrelative:calc4xmapp\\formgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\calc4xmapp\\recolhadadoscsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|solutionrelative:calc4xmapp\\recolhadadoscsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\calc4xmapp\\recolhadadoscsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65B8D3B-2311-4795-9780-D3DD1D7838C0}|Calc4xMApp\\Calc4xMApp.csproj|solutionrelative:calc4xmapp\\recolhadadoscsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGraph.cs",
+              "DocumentMoniker": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\IGraph.cs",
+              "RelativeDocumentMoniker": "Calc4xMApp\\IGraph.cs",
+              "ToolTip": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\IGraph.cs",
+              "RelativeToolTip": "Calc4xMApp\\IGraph.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:55:33.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionOperacaoInvalida.cs",
+              "DocumentMoniker": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\ExceptionOperacaoInvalida.cs",
+              "RelativeDocumentMoniker": "Calc4xMApp\\ExceptionOperacaoInvalida.cs",
+              "ToolTip": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\ExceptionOperacaoInvalida.cs",
+              "RelativeToolTip": "Calc4xMApp\\ExceptionOperacaoInvalida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:53:57.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGraph.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\FormGraph.cs",
+              "RelativeDocumentMoniker": "Calc4xMApp\\FormGraph.cs",
+              "ToolTip": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\FormGraph.cs [Design]",
+              "RelativeToolTip": "Calc4xMApp\\FormGraph.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:53:40.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\Graph.cs",
+              "RelativeDocumentMoniker": "Calc4xMApp\\Graph.cs",
+              "ToolTip": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\Graph.cs",
+              "RelativeToolTip": "Calc4xMApp\\Graph.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:07:46.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecolhaDadosCSV.cs",
+              "DocumentMoniker": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\RecolhaDadosCSV.cs",
+              "RelativeDocumentMoniker": "Calc4xMApp\\RecolhaDadosCSV.cs",
+              "ToolTip": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\RecolhaDadosCSV.cs",
+              "RelativeToolTip": "Calc4xMApp\\RecolhaDadosCSV.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:07:40.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecolhaDadosCSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duarte\\Downloads\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\RecolhaDadosCSV.cs",
+              "RelativeDocumentMoniker": "Calc4xMApp\\RecolhaDadosCSV.cs",
+              "ToolTip": "D:\\Arr\\EI2024\\sideProj\\2semestre\\op\\Nova pasta (2)\\versaoFinal\\versaoFinal\\Calc4xMApp\\Calc4xMApp\\RecolhaDadosCSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:07:39.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\bin\Debug\Calc4xMApp.exe.config
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\bin\Debug\Calc4xMApp.exe
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\bin\Debug\Calc4xMApp.pdb
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\bin\Debug\ZedGraph.dll
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.AssemblyReference.cache
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.FormCalc.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.FormMain.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.Properties.Resources.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.GenerateResource.cache
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.CoreCompileInputs.cache
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.Up2Date
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.exe
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.pdb
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.RecolhaDadosManual.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.GraphLinhas.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.RecolhaDadosCSV.resources
+E:\Joana\Calc4xMApp-4\Calc4xMApp\bin\Debug\Calc4xMApp.exe.config
+E:\Joana\Calc4xMApp-4\Calc4xMApp\bin\Debug\Calc4xMApp.exe
+E:\Joana\Calc4xMApp-4\Calc4xMApp\bin\Debug\Calc4xMApp.pdb
+E:\Joana\Calc4xMApp-4\Calc4xMApp\bin\Debug\ZedGraph.dll
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.AssemblyReference.cache
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.FormCalc.resources
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.GraphLinhas.resources
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.FormMain.resources
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.Properties.Resources.resources
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.RecolhaDadosCSV.resources
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.RecolhaDadosManual.resources
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.GenerateResource.cache
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.CoreCompileInputs.cache
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.Up2Date
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.exe
+E:\Joana\Calc4xMApp-4\Calc4xMApp\obj\Debug\Calc4xMApp.pdb
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.AssemblyReference.cache
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.FormCalc.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.GraphLinhas.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.FormMain.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.Properties.Resources.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.RecolhaDadosCSV.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.RecolhaDadosManual.resources
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.GenerateResource.cache
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.CoreCompileInputs.cache
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.exe
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.pdb
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\bin\Debug\Calc4xMApp.exe.config
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\bin\Debug\Calc4xMApp.exe
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\bin\Debug\Calc4xMApp.pdb
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\bin\Debug\ZedGraph.dll
+D:\Arr\EI2024\sideProj\2semestre\op\Nova pasta (2)\versaoFinal\versaoFinal\Calc4xMApp\Calc4xMApp\obj\Debug\Calc4xMApp.csproj.Up2Date
